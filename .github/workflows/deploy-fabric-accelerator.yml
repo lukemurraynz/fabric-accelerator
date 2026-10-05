@@ -7,7 +7,7 @@ env:
   FABRIC_CAPACITY_ADMIN_ID: 00000000-0000-0000-0000-000000000000 # REPLACE: service principal object ID
   RESOURCE_GROUP: rg-fabric-accelerator
   WORKSPACE_NAME: FabricAccelerator
-  WORKSPACE_ADMIN_ID: 00000000-0000-0000-0000-000000000000 # REPLACE: your Entra user object ID
+  WORKSPACE_ADMIN_ID: f605f45a-95bc-4d4e-84b7-47abd69f91a2 # luke@luke.geek.nz (from ARM oid claim)
   WORKSPACE_ADMIN_TYPE: user # valid values: user, group
   FABRIC_SQL_DB_NAME: controldb-fabric-accelerator
   BRONZE_LH: bronze_fabric_accelerator
